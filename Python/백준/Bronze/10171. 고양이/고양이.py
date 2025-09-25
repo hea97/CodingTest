@@ -1,4 +1,4 @@
-print(f"\    /\\")
-print(f" )  ( ')")
-print(f"(  /  )")
-print(f" \(__)|")
+print("\    /\\")
+print(" )  ( ')")
+print("(  /  )")
+print(" \(__)|")
